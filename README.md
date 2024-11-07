@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arasylmazzzz
+- 👀 I’m interested in Linux and Android.
+- 🌱 I’m currently learning Python.
